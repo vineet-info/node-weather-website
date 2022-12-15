@@ -1,5 +1,3 @@
-
-console.log("client side js file loaded!!!")
 const url ='https://puzzle.mead.io/puzzle'
 
 const forcostURL = `https://api.mapbox.com/geocoding/v5/mapbox.places/!.json?access_token=pk.eyJ1IjoidmluZWV0dGlqYXJlIiwiYSI6ImNsYmRjaDVtNzAwMDQzdW84bGEzOHp4ZzUifQ.BJvpvnhWvAqflBGLDcP0RA&limit=1`
